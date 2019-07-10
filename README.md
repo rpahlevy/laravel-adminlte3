@@ -5,9 +5,11 @@ This is a ready to use AdminLTE template for Laravel 5.8
 ## What's Inside
 
 1. AdminLTE v3.0.0-beta
+
     Only /dist folder is included. You can find the templates in view/layouts and view/auth.
 
 2. Laravel 5.8
+
     Default from laravel, with changes:
 
     - route /starter -> to preview how the dashboard looks like (disable it when in productions)
